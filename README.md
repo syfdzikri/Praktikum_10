@@ -1,0 +1,2 @@
+# Praktikum_10
+Praktukum10 PENGGUNAAN FUNGSI MATEMATIKA
